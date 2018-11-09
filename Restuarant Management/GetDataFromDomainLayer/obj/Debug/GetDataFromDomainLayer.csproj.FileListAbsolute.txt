@@ -1,0 +1,15 @@
+C:\Users\jerish.js\source\repos\Restuarant Management\GetDataFromDomainLayer\bin\Debug\GetDataFromDomainLayer.dll
+C:\Users\jerish.js\source\repos\Restuarant Management\GetDataFromDomainLayer\bin\Debug\GetDataFromDomainLayer.pdb
+C:\Users\jerish.js\source\repos\Restuarant Management\GetDataFromDomainLayer\bin\Debug\AbstractionForApplicationLayer.dll
+C:\Users\jerish.js\source\repos\Restuarant Management\GetDataFromDomainLayer\bin\Debug\AbstractionForDomain.dll
+C:\Users\jerish.js\source\repos\Restuarant Management\GetDataFromDomainLayer\bin\Debug\SqlDataLayer.dll
+C:\Users\jerish.js\source\repos\Restuarant Management\GetDataFromDomainLayer\bin\Debug\EntityFramework.dll
+C:\Users\jerish.js\source\repos\Restuarant Management\GetDataFromDomainLayer\bin\Debug\AbstractionForApplicationLayer.pdb
+C:\Users\jerish.js\source\repos\Restuarant Management\GetDataFromDomainLayer\bin\Debug\AbstractionForDomain.pdb
+C:\Users\jerish.js\source\repos\Restuarant Management\GetDataFromDomainLayer\bin\Debug\SqlDataLayer.pdb
+C:\Users\jerish.js\source\repos\Restuarant Management\GetDataFromDomainLayer\bin\Debug\SqlDataLayer.dll.config
+C:\Users\jerish.js\source\repos\Restuarant Management\GetDataFromDomainLayer\bin\Debug\EntityFramework.xml
+C:\Users\jerish.js\source\repos\Restuarant Management\GetDataFromDomainLayer\obj\Debug\GetDataFromDomainLayer.csprojResolveAssemblyReference.cache
+C:\Users\jerish.js\source\repos\Restuarant Management\GetDataFromDomainLayer\obj\Debug\GetDataFromDomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\jerish.js\source\repos\Restuarant Management\GetDataFromDomainLayer\obj\Debug\GetDataFromDomainLayer.dll
+C:\Users\jerish.js\source\repos\Restuarant Management\GetDataFromDomainLayer\obj\Debug\GetDataFromDomainLayer.pdb

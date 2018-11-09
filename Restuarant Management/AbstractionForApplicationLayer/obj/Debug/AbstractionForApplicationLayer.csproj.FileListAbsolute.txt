@@ -1,0 +1,11 @@
+C:\Users\jerish.js\source\repos\Restuarant Management\AbstractionForApplicationLayer\bin\Debug\AbstractionForApplicationLayer.dll
+C:\Users\jerish.js\source\repos\Restuarant Management\AbstractionForApplicationLayer\bin\Debug\AbstractionForApplicationLayer.pdb
+C:\Users\jerish.js\source\repos\Restuarant Management\AbstractionForApplicationLayer\bin\Debug\SqlDataLayer.dll
+C:\Users\jerish.js\source\repos\Restuarant Management\AbstractionForApplicationLayer\bin\Debug\EntityFramework.dll
+C:\Users\jerish.js\source\repos\Restuarant Management\AbstractionForApplicationLayer\bin\Debug\SqlDataLayer.pdb
+C:\Users\jerish.js\source\repos\Restuarant Management\AbstractionForApplicationLayer\bin\Debug\SqlDataLayer.dll.config
+C:\Users\jerish.js\source\repos\Restuarant Management\AbstractionForApplicationLayer\bin\Debug\EntityFramework.xml
+C:\Users\jerish.js\source\repos\Restuarant Management\AbstractionForApplicationLayer\obj\Debug\AbstractionForApplicationLayer.csprojResolveAssemblyReference.cache
+C:\Users\jerish.js\source\repos\Restuarant Management\AbstractionForApplicationLayer\obj\Debug\AbstractionForApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\jerish.js\source\repos\Restuarant Management\AbstractionForApplicationLayer\obj\Debug\AbstractionForApplicationLayer.dll
+C:\Users\jerish.js\source\repos\Restuarant Management\AbstractionForApplicationLayer\obj\Debug\AbstractionForApplicationLayer.pdb
